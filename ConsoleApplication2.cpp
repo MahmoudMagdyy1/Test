@@ -4,3 +4,9 @@ int main()
 {
     std::cout << "Hello World!\n";
 }
+
+{ 
+
+cout << "hi" << endl; 
+
+}
